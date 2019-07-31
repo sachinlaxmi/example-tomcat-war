@@ -4,7 +4,7 @@
 <html>
 <head>
 <!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">-->
-	<meta http-equiv="refresh" content="0; url=http://example.com/" />
+	<meta http-equiv="refresh" content="0; url=https://www.india.ford.com/cars/mustang//" />
 <title>Guru Registration Form</title>
 </head>
 <body>
