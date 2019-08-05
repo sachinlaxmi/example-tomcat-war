@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sachinmustang</finalName>
+    <finalName>rover</finalName>
   </build>
 </project>
