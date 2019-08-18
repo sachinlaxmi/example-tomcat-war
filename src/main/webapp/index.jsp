@@ -4,7 +4,7 @@
 <html>
 <head>
 <!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">-->
-	<meta http-equiv="refresh" content="0; url=https://www.india.ford.com/cars/mustang//" />
+	<meta http-equiv="refresh" content="0; url=https://www.google.com/search?q=sachin+tendulkar+image&oq=sa&aqs=chrome.0.69i59j35i39j69i57j69i60l3.1607j0j7&sourceid=chrome&ie=UTF-8" />
 <title>Guru Registration Form</title>
 </head>
 <body>
