@@ -8,7 +8,7 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
-<img src="mustang.jpg">	
+<img src="SACHINTEND.jpg">	
 <!--<h1>KESHAV Devops "Register Form"</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
